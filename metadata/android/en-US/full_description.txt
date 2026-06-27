@@ -1,0 +1,13 @@
+Shour helps users create and follow service requests for animals, cars, consulting, and orders from one account.
+
+Main features:
+- Register and sign in securely.
+- Browse available animal and car services.
+- View consultant profiles after admin approval.
+- Create service requests for the selected service.
+- Track submitted orders from the orders screen.
+- Manage profile and app settings.
+
+The app also includes dedicated admin and consultant areas. Admin users can review consultant applications, manage required documents, review requests, and control app settings. Consultant users can access assigned requests after approval.
+
+Shour only shows data available from the configured Supabase project. Service availability, consultant approval, and request processing are managed by the app administrator.

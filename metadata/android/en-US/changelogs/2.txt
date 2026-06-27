@@ -1,0 +1,1 @@
+Improved app metadata, naming consistency, consultant review handling, and production release readiness.

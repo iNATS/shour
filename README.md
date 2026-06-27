@@ -1,16 +1,16 @@
-# shour
+# Shour
 
-A new Flutter project.
+Shour is a Flutter app for managing service requests for animals, cars, orders,
+consultants, user accounts, and admin review workflows.
 
-## Getting Started
+## Release Notes
 
-This project is a starting point for a Flutter application.
+- Uses Supabase for authentication, profiles, service content, and request data.
+- Supports user accounts, consultant registration review, and admin management.
+- Includes Material 3 screens for users, consultants, and administrators.
 
-A few resources to get you started if this is your first Flutter project:
+## Store Listing Guidance
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Use concise store metadata that describes the actual app features. Avoid claims
+about pricing, rankings, Google Play performance, promotional offers, or
+unverified testimonials.
